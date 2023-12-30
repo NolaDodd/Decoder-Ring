@@ -1,5 +1,6 @@
 # The Decoder Ring
-I worked on this project while attending Thinkful/Chegg Skills's Software Engineering bootcamp.
+I worked on this project while attending Thinkful/Chegg Skills's Software Engineering bootcamp. 
+This project includes working with code through JavaScript, and writing tests through Mocha and Chai.
 
 ## The Caesar Shift
 The first decoder is a Caesar Shift, a type of substitution cipher originally used by Julius Caesar. 
