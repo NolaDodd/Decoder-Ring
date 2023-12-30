@@ -1,7 +1,7 @@
 # The Decoder Ring
 I worked on this project while attending Thinkful/Chegg Skills's Software Engineering bootcamp.
 
-##*The Caesar Shift*
+## The Caesar Shift
 The first decoder is a Caesar Shift, a type of substitution cipher originally used by Julius Caesar. 
 It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
 For example, if you were to "shift" the alphabet to the right by 3, the letter "A" would become "D".
@@ -14,7 +14,7 @@ Shift : -3
 "crlqnv" --> "zoinks"
 ```
 
-##*The Polybius Square*
+## The Polybius Square
 The Polybius Square is a cipher that is achieved by arranging a typical alphabet into a grid. 
 Each letter is represented through a coordinate. 
 ```
@@ -31,7 +31,7 @@ For example, the letter "B" would be represented by the numerical pair "21".
 "3251131343 2543241341" --> "hello world"
 "4432423352125413" --> "th(i/j)nkful"
 
-##*The Substitution Shift*
+## The Substitution Shift
 
 The Substitution Cipher requires a standard alphabet and a substitution alphabet. 
 Letters from the standard alphabet will be transposed to the standard alphabet. 
