@@ -31,6 +31,11 @@ Each letter is represented through a coordinate.
 ```
 For example, the letter "B" would be represented by the numerical pair "21".
 
+I and J are both paired together as 42 in the Polybius Square, so if you were to put the word
+"jill", the result would be "42421313". 
+
+But if you were to put "42421313", you would get "(i/j)(i/j)ll".
+
 "Buddy"  --> "2154414145"
 
 "3251131343 2543241341" --> "hello world"
