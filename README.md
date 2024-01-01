@@ -7,7 +7,7 @@ This project includes working with code through JavaScript, and writing tests th
 ## The Caesar Shift
 The first decoder is a Caesar Shift, a type of substitution cipher originally used by Julius Caesar. 
 It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
-For example, if you were to "shift" the alphabet to the right by 3, the letter "A" would become "D". 
+For example, if you were to "shift" by +3, the letters would shift to the right and "A" would become "D". 
 You can choose to shift anywhere from -25 to +25.
 ```
 Shift : 3
